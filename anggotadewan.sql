@@ -1,0 +1,1 @@
+SELECT * FROM anggotadewan.erlangga_5025201118;
